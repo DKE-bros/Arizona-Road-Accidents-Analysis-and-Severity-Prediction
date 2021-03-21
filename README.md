@@ -1,1 +1,1 @@
-# Arizona-Road-Accidents-Analysis-and-Severity-Prediction
+# Arizona Road Accidents Analysis and Severity Prediction
