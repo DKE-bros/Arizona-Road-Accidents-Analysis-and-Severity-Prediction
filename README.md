@@ -2,9 +2,9 @@
  
  Hi, thanks for reading us. 
  
- Please find the short videos in which we explain some of the insights. 
+ Please find the short videos in which we explain some of the insights here: https://www.youtube.com/channel/UCk36QlSRJyT4MRX0_-uQbOQ
  
-We used google colab for this project. You can find our notebook here https://colab.research.google.com/drive/1iecHNVTXzcKlcOs8ffjraS-QAMT6XiFH?usp=sharing or by downloading it on this github.
+We used google colab for this project. You can find our notebook here: https://colab.research.google.com/drive/1iecHNVTXzcKlcOs8ffjraS-QAMT6XiFH?usp=sharing or by downloading it on this github.
 
 Let us know if you have any feedback/comment, 
 
